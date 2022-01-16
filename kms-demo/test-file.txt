@@ -1,2 +1,1 @@
-
-My name is David. KMS test.
+This is a KMS demo.
